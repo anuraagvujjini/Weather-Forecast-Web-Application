@@ -1,0 +1,38 @@
+#home
+{
+      background-image: url("http://cs-server.usc.edu:45678/hw/hw8/images/bg.jpg");
+      text-align: center;
+}
+#forecastlogo
+{
+      height: 50px;
+      width:  50px;
+}
+.form-inline
+{
+          
+      margin: 35px;
+      padding: 40px ;
+      background-color: #dddddd;
+      opacity: 0.8;
+      filter: alpha(opacity=80);
+}
+#top{background-color: #FF6E6E;}
+#precip{background-color: #FFFFFF;}
+#precipval{margin-right:70px;}
+#ws{background-color: #FFFFFF;}
+#windspeed{margin-right:50px;}
+#hd{background-color: #FFFFFF;}
+#humid{margin-right:60px;}
+#sr{background-color: #FFFFFF;}
+#risetime{margin-right:40px;}
+#dewpoint{margin-right:50px;}
+#dp{background-color: #FFCFCF;}
+#chr{background-color: #FFCFCF;}
+#rainchance{margin-right:100px;}
+#visi{margin-right:50px;}
+#vs{background-color: #FFCFCF;}
+#ss{background-color: #FFCFCF;}
+#settime{margin-right:40px;}
+#basicMap{height: 380px;}
+#tabspart{height: 450px;} 
